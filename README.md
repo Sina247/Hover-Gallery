@@ -14,3 +14,9 @@ A **modern, interactive image gallery** built with **HTML and CSS**. HoverGaller
 - 🌐 **Cross-browser support** : Works on Chrome, Firefox, Safari and Edge.  
 - 🛠️ **Easy integration** : Embed the gallery anywhere with simple HTML and CSS.  
 - 🖌️ **Flexible behavior** : Control the number of images, hover zones and image sources with CSS variables.
+
+---
+
+## 🖼️ Screenshot
+
+<img width="1919" height="628" alt="Screenshot 2025-12-06 212518" src="https://github.com/user-attachments/assets/0ada5db7-11bb-4fb1-9e44-9c0457161c5c" />
